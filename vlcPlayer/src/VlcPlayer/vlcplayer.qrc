@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/VlcPlayer">
+        <file>D:/苏嵌合作/图片/欢迎.jpg</file>
+        <file>D:/苏嵌合作/视频传输/图片/背景2.jpg</file>
+        <file>D:/苏嵌合作/图片/注册.jpg</file>
+        <file>D:/苏嵌合作/图片/用户.png</file>
+        <file>D:/苏嵌合作/图片/个人信息.png</file>
+        <file>D:/苏嵌合作/图片/上传文件.png</file>
+    </qresource>
+</RCC>
